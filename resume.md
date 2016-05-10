@@ -60,7 +60,7 @@
 
 - Web开发：HTML/CSS/JavaScript/Node
 - Web框架：Express
-- 前端框架：Bootstrap/AngulrJS/HTML5
+- 前端框架：jQuery
 - 前端工具：Webpack/Gulp/
 - 数据库相关：SQLServer/SQLite/MySQL
 - 版本管理工具：Svn/Git
