@@ -13,11 +13,11 @@
 
  - 潘绳杰/男/1990
  - 本科/大连民族大学自动化系
- - 工作年限：4年
- - 技术博客：http://www.bookcell.org
+ - 工作年限：7年
+ - 技术博客：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - 期望职位：Web前端工程师
- - 期望薪资：税前月薪20k
+ - 期望薪资：税前月薪28k
  - 期望城市：南京
 
 ---
@@ -26,11 +26,27 @@
 
 ## 爱云信息技术 ( 2016年6月 ~ 至今 )
 
+### Demobox
+
+物联网设备移动端管理平台，用于展示物联网设备的数据采集和简单管理功能。
+
+负责移动端的前端开发，使用技术栈Reactjs、Ant Design、Create-react-app。
+
+### 交通物流管理平台
+
+物流运输管理平台，展示物流运单的周期管理，涉及地图展示和运单的派送等功能。
+
+负责前端开发，使用技术栈Angularjs、Gulp、Leaflet，使用地图js库搭建地图适配层，支持接入多种地图服务，方便国外和国内地图的切换。
+
 ### 物联网IoT PaaS平台
 
-我在此项目中负责前端开发。
+物联网设备连接管理平台，功能持续迭代开发，用以物联网设备的数据采集、数据展示和管理操作。
+
+我在此项目中从零开始架构和组件选型，并完成1.0版本的开发，并完成UI 2.0的重构，目前已经完成React的重构工作。
 
 涉及技术栈: html/css/js, angularjs, bootstrap, nodejs, gulp
+
+重构技术栈: Reactjs, Redux, React-route, Ant design, Webpack
 
 ### 公司官网
 
@@ -65,31 +81,39 @@
 ## 开源项目
 
  - [天气预报 Hybrid App](https://github.com/perry2008084/bookcellweather) : 一款实用angular和Ionic开发的天气预报app
- - [书格](https://github.com/perry2008084/AndroidProject/tree/master/BookCell) : 一个帮助爱书的人记录书架上书籍的放置，方便寻找的APP。
+ - [书格](https://github.com/perry2008084/AndroidProject/tree/master/BookCell) : 一个帮助爱书的人记录书架上书籍的放置，方便寻找的APP
 
 ## 技术文章
 
-- [CSS中background属性的使用指南](http://bookcell.org/2017/04/09/css-background-guide/)
-- [JavaScript国际化方案i18next的入门使用](http://bookcell.org/2017/01/20/i18next-tutorial/)
+- [CSS中background属性的使用指南](https://blog.bookcell.org/2018/04/22/css-background-guide/)
+- [Git使用指南](https://blog.bookcell.org/2018/07/26/git-quick-bookup-notes/)
+- [Angularjs平滑升级实战(翻译文章)](https://blog.bookcell.org/2018/02/19/directly-upgrading-from-angularjs-to-angular-without-preparing-the-exiting-code-base/)
 
 # 技能清单
 
 以下均为我使用的技能,熟练程度由上往下
 
-- Web开发：HTML/CSS/JavaScript/Nodejs
-- 前端库及框架：jQuery/Angularjs/vuejs/Expressjs
-- 前端工具：Gulp/Webpack/ESLint
-- 版本管理工具：Svn/Git
-- 数据库相关：MongoDB/SQLServer/SQLite/MySQL
+- Web开发：HTML/CSS/JavaScript/ES6/Nodejs
+- 前端库及框架：Reactjs/Angularjs/Expressjs
+- 前端工具：Webpack/Gulp/ESLint
+- 版本管理工具：Git
 
 ## 参考技能关键字
 
 - web
-- javascript/angularjs
+- javascript/angularjs/reactjs
 - css
 - html
-- linux
+- linux/zsh
 - nodejs
+
+---
+
+# 个人爱好
+
+* 阅读 - [2018阅读记录](https://blog.bookcell.org/2018/12/31/reading-history-2018/)
+* 羽毛球 - 每周一次羽毛球活动
+* 摄影 - 坚持为公司的聚会团建活动拍摄照片
 
 ---
 
