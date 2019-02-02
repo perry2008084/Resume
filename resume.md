@@ -17,8 +17,8 @@
  - 技术博客：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - 期望职位：Web前端工程师
- - 期望薪资：税前月薪28k
- - 期望城市：南京
+ - 期望薪资：税前月薪30k
+ - 期望城市：南京、上海、杭州
 
 ---
 
