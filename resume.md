@@ -11,7 +11,7 @@
  - 工作年限：7年
  - 技术博客：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
- - 期望职位：高级前端工程师
+ - 期望职位：Web前端工程师
  - 期望薪资：税前月薪25k
 
 # 技能
