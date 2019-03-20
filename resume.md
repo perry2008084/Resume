@@ -12,13 +12,13 @@
  - 技术博客：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - 期望职位：Web前端工程师
- - 期望薪资：税前月薪25k
+ - 期望薪资：税前月薪25k~35K
 
 # 技能
 
 1. 熟练使用HTML/CSS/Js(ES6)开发PC与移动端页面，对前端模块化开发、面向对象、性能优化有深刻理解。
 2. 熟悉Nodejs, 并熟练使用相关的工具(Webpack/Babel/ESLint/NPM/Gulp)进行前端工程化探索和实践。
-3. 熟悉前端开发框架Angularjs、React等。
+3. 熟悉前端开发框架Angularjs、React全家桶等。
 4. 熟悉HTTP协议，可以配置Nginx
 5. 熟悉Git版本管理
 
