@@ -16,7 +16,7 @@
 
 # Skills
 
-1. skilled with html/css/javascript(es6+) to develop PC/mobile web App, familiar with component, functional and performance improvement.
+1. skilled with html/css/javascript(es6+) to develop PC/mobile web App, familiar with component, module and engineering.
 2. familiar with nodejs, use tools(webpack/babel/eslint/npm/gulp) in the frontend work flow.
 3. skilled with Reactjs/Redux/React-router/React-saga, Angularjs.
 4. skiled with Git work flow
