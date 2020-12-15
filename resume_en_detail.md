@@ -8,7 +8,7 @@
 
  - Perry/Male/1990
  - Undergraduate/Dalian Nationalities University
- - Work experience：7years
+ - Work experience：8years
  - Blog：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - Role：Frontend Developer
@@ -18,21 +18,21 @@
 
 1. skilled with html/css/javascript(es6+) to develop PC/mobile web App, familiar with component, module and engineering.
 2. familiar with nodejs ecology, use tools(webpack/babel/eslint/npm/gulp) in the frontend work flow.
-3. skilled with Reactjs/Redux/React-router/React-saga, Angularjs.
-4. skiled with Git work flow.
+3. skilled with Reactjs/Redux/React-router/React-saga and Angular.
+4. skilled with Git work flow and HTTP protocol.
 5. like following the new technology, and improve the current tech stack.
 
 # Experience
 
-## Suning (2019.4 ~ 2019.7)
+## HuaWei (2019 ~ 2020)
 
-As a senior frontend tech manager, i'm responsible for three things:
+TMC Web platform develop, with PC page and nodejs.
 
-1. lead the suning member marketing activity h5 develeopment
-2. help doing the tech interview
-3. new technology investigation
+1. Maintain reactjs Web app.
+2. Refactor some old project with Angular.
+3. Maintain nodejs application.
 
-## ACloud (2016.6 ~ 2019.4)
+## ACloud (2016 ~ 2019)
 
 As a senior frontend engineer, i'm responsible for two things:
 
@@ -53,11 +53,11 @@ IoT PaaS Platform Web App for mobile, we used React/React-router/Redux/Ant-desig
 
 With the PaaS, i developed some SaaS on logistics, industrial field with gis, and data visualization tech stack.
 
-## Skypine (2014.5 ~ 2016.5)
+## Skypine (2014 ~ 2016)
 
 As a software engineer, take part in to develop the automobile multimedia system app with C++ and java.(Wince and Android platform).
 
-## Fujitsu (2012.6 ~ 2014.4)
+## Fujitsu (2012 ~ 2014)
 
 As a fullstack engineer, take part in to develop the Fujitsu enterprise-class storage server web management system, with the tech stack of jquery/bootstrap/c++/cgi.
 
