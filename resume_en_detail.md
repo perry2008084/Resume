@@ -24,7 +24,7 @@
 
 # Experience
 
-## HuaWei (2019 ~ 2020)
+## HuaWei (2019 ~ Now)
 
 TMC Web platform develop, with PC page and nodejs.
 
