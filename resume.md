@@ -9,7 +9,7 @@
  - 潘绳杰/男/1990
  - 统招本科/大连民族大学自动化系
  - 工作年限：9年
- - 技术博客：http://blog.bookcell.cn
+ - 技术博客：http://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - 期望职位：Web前端工程师
  - 期望薪资：面谈
