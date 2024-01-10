@@ -6,60 +6,75 @@
 
 # Info
 
- - Perry/Male/1990
- - Undergraduate/Dalian Nationalities University
- - Work experience：8years
- - Blog：http://blog.bookcell.org
+ - ShengJie Pan(english name: Perry)/Male/1990
+ - Bachelor/Dalian Nationalities University/Automation major
+ - Work experience：11years
+ - Blog：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
- - Role：Frontend Developer
- - Salary: Talk
+ - Role：Senior Frontend Software Engineer
 
 # Skills
 
-1. skilled with html/css/javascript(es6+) to develop PC/mobile web App, familiar with component, module and engineering.
-2. familiar with nodejs ecology, use tools(webpack/babel/eslint/npm/gulp) in the frontend work flow.
-3. skilled with Reactjs/Redux/React-router/React-saga and Angular.
-4. skilled with Git work flow and HTTP protocol.
-5. like following the new technology, and improve the current tech stack.
+1. skilled with html/css/javascript(es6+) to develop PC/mobile web Apps.
+2. familiar with nodejs tools, used (npm/pnpm/eslint/prettier) in my frontend work flow.
+3. used Angular/React/Vue.js framework in previous project.
+4. familiar with Git work flow, REST API and HTTP protocol.
+5. following the frontend trends, and apply the new best practice to the project.
+6. embrace Agile
 
-# Experience
+# Work Experience
 
-## HuaWei (2019 ~ Now)
+## Smartcom (2019 ~ Now)
 
-TMC Web platform develop, with PC page and nodejs.
+As a senior frontend software engineer, I usually do the works below:
 
-1. Maintain reactjs Web app.
-2. Refactor some old project with Angular.
-3. Maintain nodejs application.
+1. work as a core frontend software engineer, develop and maintain the travel control management web apps.
+2. transform business requirements into tasks and assign to some team members, do some code reviews.
+3. train new team members.
+4. following the frontend trends, and apply some best practice and tech into the project.
 
 ## ACloud (2016 ~ 2019)
 
-As a senior frontend engineer, i'm responsible for two things:
+ACloud is a startup, as a senior frontend engineer, I usually do the works below:
 
-1. As a major frontend engineer, develop the ACloud IoT PaaS platform(PC and mobile)
-2. new technology investigation and work flow improve
+1. as a core frontend engineer, develop the IoT PaaS platform web apps(PC and mobile)
+2. new web technology investigation and improve the frontend work flow 
+
+## Skypine (2014 ~ 2016)
+
+As a software engineer, develop the automobile multimedia system apps with C++ and java.(Wince and Android platform).
+
+## Fujitsu (2012 ~ 2014)
+
+As a fullstack engineer, develop the Fujitsu enterprise-class storage server's web management system, with html/jquery/bootstrap/c++/cgi.
+
+# Project Experience
+TODO:
+## Train booking Web App
+
+
+## Travel Apply Web App
+
+
+## Customer Management Portal
+
+
+## Operator Administrator Portal
+
 
 ### IoT PaaS Platform Web App(PC)
 
 IoT device connection management platform, used for IoT device data collection, data visualization and other management function.
 
-I take part in the project from the start, used Angularjs/bootstrap/gulp to develop the first edition. After two years iteration, used React/React-router/Redux/Ant-design to refactor.
+I build this web app from zero, used Angularjs/bootstrap/gulp. After two years iteration, then refactor with React/React-router/Redux/Ant-design.
 
 ### IoTBox Web App(Mobile)
 
 IoT PaaS Platform Web App for mobile, we used React/React-router/Redux/Ant-design mobile as the tech stack.
 
-### Some SaaS based on PaaS
+### Some SaaS based on Iot PaaS
 
-With the PaaS, i developed some SaaS on logistics, industrial field with gis, and data visualization tech stack.
-
-## Skypine (2014 ~ 2016)
-
-As a software engineer, take part in to develop the automobile multimedia system app with C++ and java.(Wince and Android platform).
-
-## Fujitsu (2012 ~ 2014)
-
-As a fullstack engineer, take part in to develop the Fujitsu enterprise-class storage server web management system, with the tech stack of jquery/bootstrap/c++/cgi.
+With the PaaS, I developed some SaaS web apps on logistics, industrial field with GIS/echarts.
 
 # Thanks
 Thanks for reading my resume, looking forward to working with you.
