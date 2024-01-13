@@ -15,8 +15,8 @@
 
 # Skills
 
-1. skilled with html/css/javascript(es6+) to develop PC/mobile web Apps.
-2. familiar with nodejs tools, used (npm/pnpm/eslint/prettier) in my frontend work flow.
+1. skilled with HTML/CSS/JavaScript(ES6+) to develop PC/mobile web Apps.
+2. familiar with nodejs tools, used (npm/pnpm/eslint/prettier) in the frontend work flow.
 3. used Angular/React/Vue.js framework in previous project.
 4. familiar with Git work flow, REST API and HTTP protocol.
 5. following the frontend trends, and apply the new best practice to the project.
@@ -29,7 +29,7 @@
 As a senior frontend software engineer, I usually do the works below:
 
 1. work as a core frontend software engineer, develop and maintain the travel control management web apps.
-2. transform business requirements into tasks and assign to some team members, do some code reviews.
+2. transform business requirements into tasks and assign to some team members, code reviews.
 3. train new team members.
 4. following the frontend trends, and apply some best practice and tech into the project.
 
@@ -37,44 +37,52 @@ As a senior frontend software engineer, I usually do the works below:
 
 ACloud is a startup, as a senior frontend engineer, I usually do the works below:
 
-1. as a core frontend engineer, develop the IoT PaaS platform web apps(PC and mobile)
-2. new web technology investigation and improve the frontend work flow 
+1. develop the IoT device management system(PC and mobile)
+2. investigate new web technology and improve the frontend work flow 
+3. make some tools to improve work efficiency
 
 ## Skypine (2014 ~ 2016)
 
-As a software engineer, develop the automobile multimedia system apps with C++ and java.(Wince and Android platform).
+As a software engineer, develop the automobile multimedia system apps with C++ and java.(Wince and Android platform). Also train new team members.
 
-## Fujitsu (2012 ~ 2014)
+## Fujitsu Nanjing (2012 ~ 2014)
 
 As a fullstack engineer, develop the Fujitsu enterprise-class storage server's web management system, with html/jquery/bootstrap/c++/cgi.
 
 # Project Experience
-TODO:
+
 ## Train booking Web App
 
+The project is for bussines and personal to book train tickets.
+
+As the project owner, develop and maintain PC/H5/mobile App, used react/vue/react-native. With Agile, we keep delivering every two weeks and also keep high quality.
 
 ## Travel Apply Web App
 
+The project is for bussiness to apply the travel request.
+
+As the project owner, develop and maintain PC web app, uesd angular/ng-zorro. With two team members,we collaborate release this project as MVP(minimum viable product) in one month, and we received praise from customer and manager.
 
 ## Customer Management Portal
 
+The project is for business customer's administrator to manage the configuration.
 
-## Operator Administrator Portal
+As the project owner, develop and maintain PC web app, used angular/ng-zorro/vue.js.
+We use the angular as main framework, and tried using vue.js to develop some pages then intergrated into the project.
 
-
-### IoT PaaS Platform Web App(PC)
+## IoT Device Management Web App(PC)
 
 IoT device connection management platform, used for IoT device data collection, data visualization and other management function.
 
-I build this web app from zero, used Angularjs/bootstrap/gulp. After two years iteration, then refactor with React/React-router/Redux/Ant-design.
+As the only one frontend software engineer build this web app from zero to one, used Angularjs/bootstrap/gulp. After two years iteration, then refactor with React/React-router/Redux/Ant-design.
 
-### IoTBox Web App(Mobile)
+## IoTBox Web App(Mobile)
 
-IoT PaaS Platform Web App for mobile, we used React/React-router/Redux/Ant-design mobile as the tech stack.
+IoT device management web app for mobile, we used React/React-router/Redux/Ant-design mobile as the tech stack.
 
-### Some SaaS based on Iot PaaS
+## Some SaaS Apps based on IoT PaaS
 
-With the PaaS, I developed some SaaS web apps on logistics, industrial field with GIS/echarts.
+Based on IoT device management system, developed some SaaS web apps on logistics, industrial field, used mapbox/amap/leaflet/echarts. The project received many related industry's customers.
 
 # Thanks
 Thanks for reading my resume, looking forward to working with you.
