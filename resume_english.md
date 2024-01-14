@@ -8,7 +8,7 @@
 
  - ShengJie Pan(english name: Perry)/Male/1990
  - Bachelor/Dalian Nationalities University/Automation major
- - Work experience：11years
+ - Working experience：11years
  - Blog：https://blog.bookcell.org
  - Github: http://github.com/perry2008084
  - Role：Senior Frontend Software Engineer
@@ -17,9 +17,9 @@
 
 1. skilled with HTML/CSS/JavaScript(ES6+) to develop PC/mobile web Apps.
 2. familiar with nodejs tools, used (npm/pnpm/eslint/prettier) in the frontend work flow.
-3. used Angular/React/Vue.js framework in previous project.
-4. familiar with Git work flow, REST API and HTTP protocol.
-5. following the frontend trends, and apply the new best practice to the project.
+3. Angular/React/Vue.js experince.
+4. familiar with Git, REST API and HTTP protocol.
+5. like following frontend trends, and apply best practice to the project.
 6. embrace Agile
 
 # Work Experience
@@ -28,10 +28,10 @@
 
 As a senior frontend software engineer, I usually do the works below:
 
-1. work as a core frontend software engineer, develop and maintain the travel control management web apps.
-2. transform business requirements into tasks and assign to some team members, code reviews.
+1. work as a core frontend software engineer, develop and maintain the travel management related web apps.
+2. transform business requirements into tasks and assign to some team members, code review.
 3. train new team members.
-4. following the frontend trends, and apply some best practice and tech into the project.
+4. following the frontend trends, apply some best practice and new tech into the project.
 
 ## ACloud (2016 ~ 2019)
 
@@ -61,7 +61,7 @@ As the project owner, develop and maintain PC/H5/mobile App, used react/vue/reac
 
 The project is for bussiness to apply the travel request.
 
-As the project owner, develop and maintain PC web app, uesd angular/ng-zorro. With two team members,we collaborate release this project as MVP(minimum viable product) in one month, and we received praise from customer and manager.
+As the project owner, develop and maintain PC web app, uesd angular/ng-zorro. With two team members,we collaborate to release this project as MVP(minimum viable product) in one month, and we received praise from customer and manager.
 
 ## Customer Management Portal
 
@@ -70,19 +70,13 @@ The project is for business customer's administrator to manage the configuration
 As the project owner, develop and maintain PC web app, used angular/ng-zorro/vue.js.
 We use the angular as main framework, and tried using vue.js to develop some pages then intergrated into the project.
 
-## IoT Device Management Web App(PC)
+## IoT Device Management Web App(PC/Mobile)
 
 IoT device connection management platform, used for IoT device data collection, data visualization and other management function.
 
 As the only one frontend software engineer build this web app from zero to one, used Angularjs/bootstrap/gulp. After two years iteration, then refactor with React/React-router/Redux/Ant-design.
 
-## IoTBox Web App(Mobile)
-
-IoT device management web app for mobile, we used React/React-router/Redux/Ant-design mobile as the tech stack.
-
-## Some SaaS Apps based on IoT PaaS
-
-Based on IoT device management system, developed some SaaS web apps on logistics, industrial field, used mapbox/amap/leaflet/echarts. The project received many related industry's customers.
+Based on IoT device management system, also developed some SaaS web apps on logistics, industrial field, used mapbox/amap/leaflet/echarts. The project received many related industry's customers.
 
 # Thanks
 Thanks for reading my resume, looking forward to working with you.
